@@ -5,6 +5,9 @@ public class FirstTest {
 		System.out.println(test);
 	}
 	public void test1(){
-		System.out.println( "新增添加到子分支上");
+		System.out.println( "新增添加到子分支上1");
+	}
+	public void test2(){
+		System.out.println( "新增添加到子分支上2");
 	}
 }
